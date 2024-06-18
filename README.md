@@ -1,27 +1,26 @@
-
-MyCalculator
-Overview
+##MyCalculator
+##Overview
 MyCalculator is a simple and intuitive calculator app designed for basic arithmetic operations. It features a user-friendly interface and supports operations such as addition, subtraction, multiplication, and division.
 
-Features
+##Features
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
 Clear Display: Shows the current input and result.
 User Interface: Simple and easy-to-use interface.
 Getting Started
-Prerequisites
+##Prerequisites
 Android Studio 4.1+
 Kotlin 1.4+
-Installation
+##Installation
 Clone the repository:
 sh
-Copy code
+##Copy code
 git clone https://github.com/your-username/mycalculator.git
 Open the project in Android Studio:
 sh
-Copy code
+##Copy code
 cd mycalculator
 Build and run the project on an emulator or a physical device.
-Usage
+##Usage
 Performing Calculations
 Launch the app.
 Use the on-screen buttons to input numbers and select operations.
@@ -30,7 +29,7 @@ Use the "C" button to clear the current input.
 Contributing
 We welcome contributions to enhance MyCalculator. To contribute:
 
-Fork the repository.
+##Fork the repository.
 Create a new branch:
 sh
 Copy code
@@ -41,13 +40,13 @@ Copy code
 git commit -m 'Add some feature'
 Push to the branch:
 sh
-Copy code
+##Copy code
 git push origin feature/your-feature-name
 Open a pull request.
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Thanks to all the contributors and the open-source community for their support.
 Special thanks to users who provide feedback to improve the app.
 Contact
